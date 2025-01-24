@@ -12,7 +12,7 @@
 	<groupId>com.gmdev</groupId>
 	<artifactId>big-project</artifactId>
 	<packaging>pom</packaging>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>big-project</name>
 
 	<description>Big project</description>
@@ -33,7 +33,7 @@
 	<scm>
 		<connection>scm:git:ssh://git@github.com/giansluca/big-project.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/giansluca/big-project.git</developerConnection>
-		<tag>v0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
