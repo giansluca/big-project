@@ -12,7 +12,7 @@
 	<groupId>com.gmdev</groupId>
 	<artifactId>big-project</artifactId>
 	<packaging>pom</packaging>
-	<version>0.0.2-1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>big-project</name>
 
 	<description>Big project</description>
