@@ -5,11 +5,11 @@
     <parent>
         <groupId>com.gmdev</groupId>
         <artifactId>big-project</artifactId>
-        <version>0.0.1-1-SNAPSHOT</version>
+        <version>0.0.1-1</version>
     </parent>
 
     <artifactId>pepe</artifactId>
-    <version>0.0.1-1-SNAPSHOT</version>
+    <version>0.0.1-1</version>
     <packaging>jar</packaging>
     <description />
     <name>pepe</name>
