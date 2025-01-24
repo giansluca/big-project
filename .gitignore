@@ -92,4 +92,7 @@ build/
 *.ipr
 
 # project specific
+*/pom.xml.releaseBackup
+pom.xml.releaseBackup
+release.properties
 
