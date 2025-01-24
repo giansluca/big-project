@@ -25,15 +25,16 @@
 	<developers>
 		<developer/>
 	</developers>
+
 	<modules>
 		<module>barbero</module>
 		<module>pepe</module>
 	</modules>
+
 	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
+		<connection>scm:git:ssh://git@github.com:giansluca/big-project.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:giansluca/big-project.git</developerConnection>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
