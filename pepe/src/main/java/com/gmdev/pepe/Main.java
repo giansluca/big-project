@@ -3,7 +3,7 @@ package com.gmdev.pepe;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello Pepe");
+        System.out.println("Hello Pepe v0.02");
     }
 
 }
